@@ -1,2 +1,2 @@
 # actividad_grup_E1
- trabajo grupal
+ trabajo grupal entrega 1
